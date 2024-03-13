@@ -130,12 +130,12 @@ a:hover{
     padding: 3%;
 }
 
-
+/*
 .nome-destaque:hover{
     background-color: var(--cor-nome-destaque-hover);
     padding: 3%;
 }
-
+*/
 .rodape{
     padding:25px;
     text-align: center;
