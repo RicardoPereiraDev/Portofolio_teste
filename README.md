@@ -21,7 +21,7 @@ Networking: O projeto facilita a conexão entre entusiastas de tecnologia, propo
 ### Desafios
 ![image](https://github.com/RicardoPereiraDev/Portofolio_teste/assets/155699805/04dbcf56-338a-4f28-93e1-b336a3e2b376)
 
-#### 1º Desafio console.log('rocket')
+#### 1º Desafio 🚀
 
 ![image](https://github.com/RicardoPereiraDev/Portofolio_teste/assets/155699805/712756ba-82f1-4605-a507-7deec5269a57)
 
