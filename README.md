@@ -15,4 +15,5 @@ Feedback Construtivo: Oferecemos feedback construtivo para ajudar os participant
 Aprendizado Divertido: Tornamos o aprendizado de programação uma experiência envolvente e divertida.
 Desenvolvimento de Habilidades: Os participantes têm a oportunidade de desenvolver habilidades práticas que são essenciais para o desenvolvimento web.
 Networking: O projeto facilita a conexão entre entusiastas de tecnologia, proporcionando uma oportunidade única para networking e colaboração.
-!
+
+![]()
