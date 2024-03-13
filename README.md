@@ -16,4 +16,5 @@ Aprendizado Divertido: Tornamos o aprendizado de programação uma experiência 
 Desenvolvimento de Habilidades: Os participantes têm a oportunidade de desenvolver habilidades práticas que são essenciais para o desenvolvimento web.
 Networking: O projeto facilita a conexão entre entusiastas de tecnologia, proporcionando uma oportunidade única para networking e colaboração.
 
-![]()
+![image](https://github.com/RicardoPereiraDev/Portofolio_teste/assets/155699805/a8fe3302-7747-4731-ad88-4cdd40bfe872)
+
